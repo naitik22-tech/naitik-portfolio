@@ -4,7 +4,7 @@ A modern and responsive personal portfolio website showcasing my skills, project
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio](YOUR_VERCEL_LINK)
+🔗 [View Portfolio]([YOUR_VERCEL_LINK](https://naitik-portfolio-b7s8wy7sk-naitik-s-team.vercel.app))
 
 ## ✨ Features
 
